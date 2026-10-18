@@ -13,3 +13,9 @@ print(name1.strip())
 
 filename="python_notes.txt"
 print(filename.removesuffix(".txt"))
+
+print(2*4)
+print(2+6)
+print(10-2)
+print(16/2)
+print(16//2)
