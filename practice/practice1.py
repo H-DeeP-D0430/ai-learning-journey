@@ -26,3 +26,5 @@ del name[2]
 del name[2]
 del name[2]
 print(name)
+
+print(len(name))
